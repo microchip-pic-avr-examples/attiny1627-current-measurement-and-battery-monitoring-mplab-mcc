@@ -4,8 +4,8 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny1627-current-measurement-and-battery-monitoring-mplab-mcc",
-        "version": " ",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "ATtiny1627 Current Measurement and Battery Monitoring",
         "projectName": "attiny1627-current-measurement-and-battery-monitoring-mplab-mcc",
         "shortDescription": "This application note shows how to use the ADC featured in the tinyAVR 2 devices to measure current and monitor battery charge. The demo shows an implementation of a simple circuit where various nodes are connected to the ADC.",
         "ide": {
@@ -19,12 +19,12 @@
             }
         ],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "ATtiny_DFP",
+            "semverRange": "^3.0.151"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": ">=5.1.17"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -37,8 +37,8 @@
             }
         },
         "author": "Marcus Young",
-        "peripherals": [],
-        "keywords": [],
+        "peripherals": ["ADC","RTC","USART"],
+        "keywords": ["Melody", "MCC"],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
