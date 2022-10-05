@@ -32,18 +32,18 @@ The example in this application note does not include an actual battery, and the
 
 ## Peripheral Configuration using MCC
 ### Added Peripherals
-![Added Peripherals](images/peripherals_used.PNG "Added Peripherals")
+![Added Peripherals](images/peripherals_used.png "Added Peripherals")
 
 ### Pin manager
-![Pin Manager](images/pin_manager.PNG "Pin Manager")
+![Pin Manager](images/pin_manager.png "Pin Manager")
 
-![Pin Manager Grid View](images/pin_manager_gridview.PNG "Pin Manager Grid View")
+![Pin Manager Grid View](images/pin_manager_gridview.png "Pin Manager Grid View")
 
 ### Real-Time Counter (RTC)
-![Real-Time Counter](images/rtc.PNG "Real-Time Counter")
+![Real-Time Counter](images/rtc.png "Real-Time Counter")
 
 ### Sleep Controller
-![SLPCTRL](images/SLPCTRL.PNG "SLPCTRL")
+![SLPCTRL](images/SLPCTRL.png "SLPCTRL")
 
 ## Setup
 
