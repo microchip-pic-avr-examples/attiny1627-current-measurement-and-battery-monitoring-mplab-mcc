@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.74118968"
-     inkscape:cx="87.022259"
-     inkscape:cy="680.66247"
+     inkscape:zoom="2.096401"
+     inkscape:cx="549.27469"
+     inkscape:cy="491.55672"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -34,6 +34,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <marker
+       id="ExperimentalArrow"
+       refX="5.0"
+       refY="3.0"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="m 10,3 -10,3 0,-6 z"
+         id="path1215" />
+    </marker>
     <marker
        style="overflow:visible;"
        id="marker1297"
@@ -367,10 +379,6 @@
          x="76.808029"
          y="249.06502">AVR</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="M 78.013054,239.64512 100.11714,222.96655"
-       id="path24343" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 34.17658,162.39856 H 54.052898"
        id="path1276-2-2-7" />
@@ -582,5 +590,9 @@
          style="stroke-width:0.264583"
          x="-48.206608"
          y="111.63237">PB5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 76.834878,239.15299 24.904352,-16.2304"
+       id="path1746" />
   </g>
 </svg>
