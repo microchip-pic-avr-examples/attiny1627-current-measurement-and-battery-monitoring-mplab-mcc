@@ -11,7 +11,8 @@ The example in this application note does not include an actual battery, and the
 ## Related Documentation
 
 - [AN???? - Using Matrix Keypad With AVR® Devices](https://microchip.com/DS00003407)
-- [ATtiny1627 device page](https://www.microchip.com/en-us/product/ATTINY1627)
+- [ATtiny1627 Device Page](https://www.microchip.com/en-us/product/ATTINY1627)
+- [ATtiny1627 Curiosity Nano Hardware User Guide](https://www.microchip.com/DS40002199)
 
 ## Software Used
 
