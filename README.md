@@ -2,7 +2,7 @@
 
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# AN???? - Current Measurement and Battery Monitoring With AVR® Devices
+# AN4811 - Current Measurement and Battery Monitoring With AVR® Devices
 
 This application note shows how to use the ADC featured in the tinyAVR® 2 devices, to measure current and to monitor battery charge. The underlying theory is discussed and a demo application is presented. The demo shows an implementation of a simple circuit where various nodes are connected to the ADC, so that measurements can be taken. Furthermore, by using MPLAB® Data Visualizer the relevant data can be presented live. 
 
@@ -10,7 +10,7 @@ The example in this application note does not include an actual battery, and the
 
 ## Related Documentation
 
-- [AN???? - Using Matrix Keypad With AVR® Devices](https://microchip.com/DS00003407)
+- [AN4811 - Using Matrix Keypad With AVR® Devices](https://microchip.com/DS00003407) <!-- This link needs to be updated -->
 - [ATtiny1627 Device Page](https://www.microchip.com/en-us/product/ATTINY1627)
 - [ATtiny1627 Curiosity Nano Hardware User Guide](https://www.microchip.com/DS40002199)
 
