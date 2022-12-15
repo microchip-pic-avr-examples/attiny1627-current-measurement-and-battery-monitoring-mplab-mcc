@@ -10,7 +10,7 @@ The example in this application note does not include an actual battery, and the
 
 ## Related Documentation
 
-- [AN4811 - Using Matrix Keypad With AVR® Devices](https://microchip.com/DS00003407) <!-- This link needs to be updated -->
+- [AN4811 - Current Measurement and Battery Monitoring](https://microchip.com/DS00004811)
 - [ATtiny1627 Device Page](https://www.microchip.com/en-us/product/ATTINY1627)
 - [ATtiny1627 Curiosity Nano Hardware User Guide](https://www.microchip.com/DS40002199)
 
