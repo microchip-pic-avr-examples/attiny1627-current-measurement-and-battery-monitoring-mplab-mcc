@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="219.57204mm"
-   height="168.1528mm"
-   viewBox="0 0 219.57204 168.15281"
+   width="221.57204mm"
+   height="170.1528mm"
+   viewBox="0 0 221.57204 170.15281"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,21 +24,25 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.74118968"
-     inkscape:cx="416.89733"
-     inkscape:cy="301.54225"
+     inkscape:cx="420.27029"
+     inkscape:cy="305.58979"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-right="1"
+     fit-margin-left="1"
+     fit-margin-top="1"
+     fit-margin-bottom="1" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(47.173082,-80.912223)">
+     transform="translate(48.173082,-79.912223)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 14.30026,216.86892 v 15.61721 h 65.858872"
