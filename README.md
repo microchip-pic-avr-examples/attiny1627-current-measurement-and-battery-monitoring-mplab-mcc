@@ -63,9 +63,9 @@ This example does not include an actual battery, and the circuit can be changed 
 
 - Connect the ATtiny1627 Curiosity Nano to a computer using the USB cable
 - Download the zip file or clone the example to get the source code
-- Open the .X file with MPLAB® X IDE.
+- Open the .X file with MPLAB® X IDE
 - Set the *attiny1627-current-measurement-and-battery-monitoring-mplab-mcc* project as main project. Right click the project in the **Projects** tab and click **Set as Main Project**.
-- Program the project to the board: right click the project and click **Make and Program Device**.
+- Program the project to the board: right click the project and click **Make and Program Device**
 - Open MPLAB® Data Visualizer from within MPLAB® X IDE
 - Load the .dvws configuration file *plot_config*
 - Start streaming data by clicking the play button
